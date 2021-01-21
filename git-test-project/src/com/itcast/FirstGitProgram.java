@@ -12,4 +12,9 @@ public class FirstGitProgram {
         System.out.println("Hello git project!");
         System.out.println("Hello git project!");
     }
+
+    public static void test(){
+        int i=0;
+        i+=10;
+    }
 }
